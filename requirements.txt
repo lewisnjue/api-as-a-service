@@ -8,4 +8,4 @@ jupyter
 gunicorn 
 fastapi
 cassandra-driver
-
+ucimlrepo
