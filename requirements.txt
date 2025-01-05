@@ -1,0 +1,11 @@
+fastapi 
+requests
+uvicorn
+tensorflow
+pypyr
+pandas
+jupyter
+gunicorn 
+fastapi
+cassandra-driver
+
